@@ -3,7 +3,6 @@ Term paper for CSEC 604 Cryptography and Authentication
 
 [Link to paper.](https://drive.google.com/file/d/1oz-bshe9kXxGRHNHX0tGwAwhg3Re2eso/view?usp=sharing) 
 
-![0](https://i.imgur.com/dttGbta.jpg)
 
 ![1](https://i.imgur.com/W8arjb2.jpg)
 
